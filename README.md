@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bassem dhouieb</h1>
-<h3 align="center">I am a software engineering student with a passion for creating innovative and efficient technology solutions. I am currently studying at ISSAT SOUSSE University, where I am honing my skills in programming, software development, and computer science.</h3>
+<h3 align="center">I am a software engineer passionate about creating innovative and efficient technology solutions. I studied at ISSAT SOUSSE University, where I am honing my skills in programming, software development, and computer science.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bassem-dhouieb&label=Profile%20views&color=0e75b6&style=flat" alt="bassem-dhouieb" /> </p>
 
