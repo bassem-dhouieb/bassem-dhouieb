@@ -5,9 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bassem-dhouieb" alt="bassem-dhouieb" /></a> </p>
 
-- 🌱 I’m currently learning **Django**
-
-- 💬 Ask me about **react, python, next.js**
+- 💬 Ask me about **react, python, next.js, Fast api**
 
 - 📫 How to reach me **bassemdwb@gmail.com**
 
